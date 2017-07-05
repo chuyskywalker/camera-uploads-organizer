@@ -4,7 +4,7 @@ Got a "Camera Uploads" folder from Dropbox? Organize it into sane folders!
 
 Dropbox allows for simple uploading of photos, video, etc from your devices. It's a wonderful feature to get all your media into one location. However, a single folder with _thousands_ of files in it is impossible to actually use. This application will move all your media into folders organized by year and month.
 
-Download the [latest release](https://github.com/chuyskywalker/camera-uploads-organize/releases), drop it in the "Camera Uploads" folder, and run the application. Ta da, organized into `yyyy/mm/img` directory structure.
+Download the [latest release](https://github.com/chuyskywalker/camera-uploads-organizer/releases), drop it in the "Camera Uploads" folder, and run the application. Ta da, organized into `yyyy/mm/img` directory structure.
 
 ## F.A.Q.
 
